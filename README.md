@@ -73,17 +73,6 @@ Welcome to the future of fun interactive learning!
 <a href="https://x.com/flowlearnerapp?s=09" target="_blank">X (formerly Twitter)</a>
 <a href="https://t.me/Flowlearnerapp">Telegram</a>
 <a href="https://www.threads.net/@flowlearnerapp" target="_blank">Threads</a>
-            </div>
-    </div>
-    
-<body>
-    <div class="email-container">
-      <a href="mailto:support@flowlearner.app" style="color: white">support@flowlearner.app</a>
-      <a href="mailto:bugs@flowlearner.app" style="color: white">bugs@flowlearner.app</a>
-      <a href="mailto:legal@flowlearner.app" style="color: white">legal@flowlearner.app</a>
-      <a href="mailto:security@flowlearner.app" style="color: white">security@flowlearner.app</a>
-    </div>
-
      <body>
     <div class="2025 Flowlearner, All rights reserved">
      <p>&copy; 2025 Flowlearner, All rights reserved.</p>
