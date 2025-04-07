@@ -13,7 +13,7 @@ FlowLearner is an innovative learning app designed to make learning fun, interac
 
  Coming Soon
 
-FlowLearner will soon be available on:
+FlowLearner will soon be available on,
 
 - Android
 - iOS
