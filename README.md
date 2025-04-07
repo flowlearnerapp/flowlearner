@@ -1,8 +1,6 @@
 # Welcome to FlowLearner!
 
 <center>
- About FlowLearner
-
 FlowLearner is an innovative learning app designed to make learning fun, interactive, and social. Engage your mind with short, brain-boosting exercises and games that you can enjoy anytime, anywhere.
 
  Key Features
