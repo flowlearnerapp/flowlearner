@@ -50,14 +50,7 @@ Welcome to the future of fun interactive learning!
 
 <div class="box">
     <h2>🚀 Get the App Soon!</h2>
-    <p class="launch-text">The Flowlearner app isn’t available yet, but it’s coming soon! Be among the first to experience learning in a whole new way. Challenge friends, learn together, and discover a more exciting, dynamic path to knowledge!</p>
-</div>
-
-        <div class="box">
-            <h2>📱 Follow Us</h2>
-            <p class="launch-text">Follow us on social media to get exclusive updates on the Flowlearner app, sneak peeks at new features, and behind-the-scenes content. Be part of the journey from day one and get the latest news as we build something amazing!</p>
-
-2025 Flowlearner, All rights reserved">
+    <p class="launch-text">The Flowlearner app isn’t available yet, but it’s coming soon! Be among the first to experience learning in a whole new way. Challenge friends, learn together, and discover a more exciting, dynamic path to knowledge!
      <p>&copy; 2025 Flowlearner, All rights reserved.</p>
     </div>
      
