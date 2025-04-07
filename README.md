@@ -1,8 +1,4 @@
-
-  ex>Welcome to the future of fun interactive learning!</p>
-        </div>
-        
-<div class="box">
+Welcome to the future of fun interactive learning!
     <h2>🌅 Wake Up to Learning</h2>
     <p class="launch-text">Imagine waking up in the morning and starting your day with a quick, brain-boosting learning exercise. Rather than feeling sluggish, why not energize yourself with a fun challenge that sparks your curiosity and focus?</p>
 </div>
