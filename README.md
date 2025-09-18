@@ -17,10 +17,10 @@ FlowLearner will soon be available on,
 
 - Android
 - iOS
+- iPadOS
+- macOS
 - Windows
 - Linux
-- macOS
-- iPadOS
 
 Join us as we revolutionize the way you learn and grow!
 
